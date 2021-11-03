@@ -2,5 +2,5 @@ id=nethunter-modules
 name=nethunter kernel modules.
 version=v1.0
 versionCode=2004
-author=Team420
+author=cyberknight777
 description=Nethunter kernel modules for NetHunter usage with aircrack-ng drivers.
